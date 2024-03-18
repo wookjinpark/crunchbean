@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118" height="118" viewBox="0 0 118 118">
+  <defs>
+    <filter id="타원_568" x="0" y="0" width="118" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="그룹_720" data-name="그룹 720" transform="translate(-440 -1597)">
+    <g transform="matrix(1, 0, 0, 1, 440, 1597)" filter="url(#타원_568)">
+      <circle id="타원_568-2" data-name="타원 568" cx="50" cy="50" r="50" transform="translate(9 6)" fill="#fff" opacity="0.9"/>
+    </g>
+    <g id="그룹_509" data-name="그룹 509" transform="translate(-25 210)">
+      <g id="그룹_508" data-name="그룹 508" transform="translate(-216 199)">
+        <g id="패스_993" data-name="패스 993" transform="translate(720 1232)" fill="none">
+          <path d="M6,0H34a3,3,0,0,1,3,3l3,26a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3L3,3A3,3,0,0,1,6,0Z" stroke="none"/>
+          <path d="M 6 2 C 5.448600769042969 2 5 2.448600769042969 5 3 L 5 3.114999771118164 L 2.003532409667969 29.08442306518555 C 2.046543121337891 29.59645652770996 2.477039337158203 30 3 30 L 37 30 C 37.5229606628418 30 37.95345687866211 29.59645652770996 37.99646759033203 29.08442306518555 L 35 3.114999771118164 L 35 3 C 35 2.448600769042969 34.55139923095703 2 34 2 L 6 2 M 6 0 L 34 0 C 35.6568489074707 0 37 1.3431396484375 37 3 L 40 29 C 40 30.65685081481934 38.6568489074707 32 37 32 L 3 32 C 1.343151092529297 32 0 30.65685081481934 0 29 L 3 3 C 3 1.3431396484375 4.343151092529297 0 6 0 Z" stroke="none" fill="#707070"/>
+        </g>
+        <path id="패스_994" data-name="패스 994" d="M16.722,11.553c-.738-2.584-1.954-9.338-1.954-9.338C14.376.9,13.776,0,12.553,0H5.169C3.945,0,3.375,1.025,2.954,2.215c0,0-1.215,6.753-1.954,9.338" transform="translate(731.139 1224)" fill="none" stroke="#707070" stroke-width="2"/>
+        <g id="타원_569" data-name="타원 569" transform="translate(730 1235)" fill="none" stroke="#707070" stroke-width="1">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.5" fill="none"/>
+        </g>
+        <g id="타원_570" data-name="타원 570" transform="translate(746 1235)" fill="none" stroke="#707070" stroke-width="1">
+          <circle cx="2" cy="2" r="2" stroke="none"/>
+          <circle cx="2" cy="2" r="1.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
